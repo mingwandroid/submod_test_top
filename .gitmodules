@@ -1,0 +1,6 @@
+[submodule "submod_test_relative"]
+	path = submod_test_relative
+	url = ../submod_test_relative.git
+[submodule "submod_test_absolute"]
+	path = submod_test_absolute
+	url = git@github.com:mingwandroid/submod_test_absolute.git
